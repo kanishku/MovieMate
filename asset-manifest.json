@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MovieMate/static/css/main.c9e5d80d.css",
+    "main.js": "/MovieMate/static/js/main.49b311cf.js",
+    "index.html": "/MovieMate/index.html",
+    "main.c9e5d80d.css.map": "/MovieMate/static/css/main.c9e5d80d.css.map",
+    "main.49b311cf.js.map": "/MovieMate/static/js/main.49b311cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9e5d80d.css",
+    "static/js/main.49b311cf.js"
+  ]
+}
